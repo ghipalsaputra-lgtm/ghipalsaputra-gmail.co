@@ -1,0 +1,4 @@
+gapal
+inter
+super
+nabi
